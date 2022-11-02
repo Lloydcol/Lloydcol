@@ -38,13 +38,13 @@
 
 #
 
-### 📊 Stats
+<!-- ### 📊 Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lloydcol&show_icons=true&theme=gruvbox)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=lloydcol&theme=gruvbox&border_radius=4.5) -->
+![GitHub Streak](https://streak-stats.demolab.com?user=lloydcol&theme=gruvbox&border_radius=4.5)
 
-#
+# -->
 
 <details>
  <summary><h3>An Unexpected Journey of Coding</h3></summary>
