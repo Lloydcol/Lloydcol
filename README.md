@@ -1,7 +1,7 @@
 
 # Hi, I'm Lloyd
 
-**`Developer - Devops Enthusiast - Creator)`**
+**`Developer - Devops Enthusiast - Creator`**
 
 Loading
 
