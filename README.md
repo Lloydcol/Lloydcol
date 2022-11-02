@@ -1,11 +1,19 @@
 ![MasterHead](https://img.freepik.com/free-vector/artificial-intelligence-robots-cyborg-with-infinity-symbol_107791-4668.jpg?w=1380&t=st=1667396276~exp=1667396876~hmac=7175535831f6fe20c973c9288710442809cada58b0d4e097456dac96936e37fb)
 
+<h1 align="center"> Hi, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /> I'm Lloyd</h1>
+         
+<h3 align="center">Developer - Devops Enthusiast - Creator</h3>
 
-# Hi 🦝, I'm Lloyd
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Lloydcol&label=Views&color=blue&style=plastic&style=for-the-badge" alt="Lloydcol" /> </p>
 
-**`Developer - Devops Enthusiast - Creator`**
+### 💫 About Me :
 
-Loading
+#
+
+<p align="center"> <a href="https://twitter.com/lloyd_colart" target="blank"><img src="https://img.shields.io/twitter/follow/lloyd_colart?logo=twitter&style=for-the-badge" alt="lloyd_colart" /></a> </p>
 
 ---
 
