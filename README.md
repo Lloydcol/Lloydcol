@@ -56,9 +56,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lloydcol&&theme=tokyonight" alt="lloydcol" /></p>
 
-<details>
+<!-- <details>
  <summary><h3>An Unexpected Journey of Coding</h3></summary>
 
-More to come
+More to come -->
 
 [website]: https://www.tanukitips.com/
