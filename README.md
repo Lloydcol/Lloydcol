@@ -7,14 +7,40 @@
          
 <h3 align="center">Developer - Devops Enthusiast - Creator</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Lloydcol&label=Views&color=blue&style=plastic&style=for-the-badge" alt="Lloydcol" /> </p>
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://youtube.com"><img width="32px" alt="Youtube" title="Youtube" src="https://user-images.githubusercontent.com/55253106/200549739-5e98dbff-ae56-4afe-8581-4d8aca6ef85f.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/lloyd_colart"><img width="32px" alt="Twitter" title="Twitter" src="https://user-images.githubusercontent.com/55253106/200549594-3d0b3a85-7aab-43ae-a511-8a4b43783647.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="" alt="Discord" title="Discord Server"><img width="32px" src="https://user-images.githubusercontent.com/55253106/200549449-068008a9-37f6-4ef4-b03e-727cc8f6b47f.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
+
+<br/>
+
+<!-- Social badges section -->
+<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
+<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
+<p align="center">
+        
+  <a href="https://github.com/Lloydcol?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Lloydcol?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+         
+  <a href="https://github.com/Lloydcol?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Lloydcol?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  
+  <a>
+    <img src="https://komarev.com/ghpvc/?username=Lloydcol&label=Views&color=blue&style=plastic&style=for-the-badge" alt="Lloydcol"/></a>
+
+  <a>
+    <img src="https://img.shields.io/twitter/follow/lloyd_colart?logo=twitter&style=for-the-badge" alt="lloyd_colart"/></a>
+         
+</p>
 
 ### 💫 About Me :
 
 #
-
-<p align="center"> <a href="https://twitter.com/lloyd_colart" target="blank"><img src="https://img.shields.io/twitter/follow/lloyd_colart?logo=twitter&style=for-the-badge" alt="lloyd_colart" /></a> </p>
-
 ---
 
 ### 🧰 Languages and Tools
