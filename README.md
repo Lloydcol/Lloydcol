@@ -9,7 +9,7 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://youtube.com"><img width="32px" alt="Youtube" title="Youtube" src="https://user-images.githubusercontent.com/55253106/200549739-5e98dbff-ae56-4afe-8581-4d8aca6ef85f.png"/></a>
+  <a href="https://www.youtube.com/channel/UCbgTopUOJCunW_6CZjgxQhw"><img width="32px" alt="Youtube" title="Youtube" src="https://user-images.githubusercontent.com/55253106/200549739-5e98dbff-ae56-4afe-8581-4d8aca6ef85f.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/lloyd_colart"><img width="32px" alt="Twitter" title="Twitter" src="https://user-images.githubusercontent.com/55253106/200549594-3d0b3a85-7aab-43ae-a511-8a4b43783647.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
