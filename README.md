@@ -13,7 +13,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/lloyd_colart"><img width="32px" alt="Twitter" title="Twitter" src="https://user-images.githubusercontent.com/55253106/200549594-3d0b3a85-7aab-43ae-a511-8a4b43783647.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="" alt="Discord" title="Discord Server"><img width="32px" src="https://user-images.githubusercontent.com/55253106/200549449-068008a9-37f6-4ef4-b03e-727cc8f6b47f.png"/></a>
+  <a href="https://discord.gg/q2qZdRUc" alt="Discord" title="Discord Server"><img width="32px" src="https://user-images.githubusercontent.com/55253106/200549449-068008a9-37f6-4ef4-b03e-727cc8f6b47f.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
