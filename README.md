@@ -40,6 +40,9 @@
 
 ### 💫 About Me :
 
+<p>I'm Lloyd, a developer at MIC Belgium and a content creator building his digital journey step by step. 
+I'm also the Co-founder of MTG:Wallonia (Microsoft Tech Group) and I've made it my goal to specify myself in Azure DevOps and GitHub. So, let's the journey begin and follow me if you want.</p>
+
 #
 ---
 
