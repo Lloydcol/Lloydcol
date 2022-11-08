@@ -9,11 +9,11 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCbgTopUOJCunW_6CZjgxQhw"><img width="32px" alt="Youtube" title="Youtube" src="https://user-images.githubusercontent.com/55253106/200549739-5e98dbff-ae56-4afe-8581-4d8aca6ef85f.png"/></a>
+  <a href="https://www.youtube.com/channel/UCbgTopUOJCunW_6CZjgxQhw" target="_blank"><img width="32px" alt="Youtube" title="Youtube" src="https://user-images.githubusercontent.com/55253106/200549739-5e98dbff-ae56-4afe-8581-4d8aca6ef85f.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/lloyd_colart"><img width="32px" alt="Twitter" title="Twitter" src="https://user-images.githubusercontent.com/55253106/200549594-3d0b3a85-7aab-43ae-a511-8a4b43783647.png"/></a>
+  <a href="https://twitter.com/lloyd_colart" target="_blank"><img width="32px" alt="Twitter" title="Twitter" src="https://user-images.githubusercontent.com/55253106/200549594-3d0b3a85-7aab-43ae-a511-8a4b43783647.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/q2qZdRUc" alt="Discord" title="Discord Server"><img width="32px" src="https://user-images.githubusercontent.com/55253106/200549449-068008a9-37f6-4ef4-b03e-727cc8f6b47f.png"/></a>
+  <a href="https://discord.gg/q2qZdRUc" alt="Discord" title="Discord Server" target="_blank"><img width="32px" src="https://user-images.githubusercontent.com/55253106/200549449-068008a9-37f6-4ef4-b03e-727cc8f6b47f.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
