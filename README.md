@@ -15,6 +15,8 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/q2qZdRUc" alt="Discord" title="Discord Server"><img width="32px" src="https://user-images.githubusercontent.com/55253106/200549449-068008a9-37f6-4ef4-b03e-727cc8f6b47f.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://dev.to/lloydcol" alt="dev.to" title="dev.to"><img width="32px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.svg"/></a>
+
 </p>
 
 <br/>
