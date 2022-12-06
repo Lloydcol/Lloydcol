@@ -62,22 +62,27 @@ I'm also the Co-founder of MTG:Wallonia (Microsoft Tech Group) and I've made it 
 
 #
 
-### Latest Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Crée ton premier workflow de déploiement Bicep à l’aide de GitHub Actions. Pt 1](http://www.tanukitips.com/cree-ton-premier-workflow-de-deploiement-bicep-a-laide-de-github-actions)
-<!-- BLOG-POST-LIST:END -->
+<details open> 
+  <summary><h2>📕 Latest Blog posts</h2></summary>
+         <!-- BLOG-POST-LIST:START -->
+         - [Crée ton premier workflow de déploiement Bicep à l’aide de GitHub Actions. Pt 1](http://www.tanukitips.com/cree-ton-premier-workflow-de-deploiement-bicep-a-laide-de-github-actions)
+         <!-- BLOG-POST-LIST:END -->
+</details>
 
 #
 
-### Latest YouTube Videos
-<!-- BEGIN YOUTUBE-CARDS -->
-<!-- END YOUTUBE-CARDS -->
+<details open> 
+  <summary><h2>📺 Latest YouTube Videos></summary>
+         <!-- BEGIN YOUTUBE-CARDS -->
+         <!-- END YOUTUBE-CARDS -->
+         Soon :D
+</details>
 
-Soon :D
+
 
 #
 
-<details> 
+<details open> 
   <summary><h2>📊 Github Stats and Activity</h2></summary>
 
   <h3>🔥 Streak Stats</h3>
