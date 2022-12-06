@@ -79,11 +79,11 @@ Soon :D
 
 ### 📊 Stats
 
-[![Lloydcol's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=lloydcol&&theme=xcode)](https://github.com/lloydcol)
+<!-- [![Lloydcol's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=lloydcol&&theme=xcode)](https://github.com/lloydcol) -->
 
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lloydcol&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="lloydcol" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lloydcol&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="lloydcol" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lloydcol&show_icons=true&locale=en&theme=tokyonight" alt="lloydcol" /></p> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lloydcol&show_icons=true&locale=en&theme=tokyonight" alt="lloydcol" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lloydcol&&theme=tokyonight" alt="lloydcol" /></p>
 
