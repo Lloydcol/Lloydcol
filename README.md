@@ -85,8 +85,12 @@ I'm also the Co-founder of MTG:Wallonia (Microsoft Tech Group) and I've made it 
 <details open> 
   <summary><h2>📊 Github Stats and Activity</h2></summary>
 
+  <h3>⚡ Recent GitHub Activity</h3>        
+    <!-- https://github.com/jamesgeorge007/github-activity-readme -->
+    <!--START_SECTION:activity-->
+     <!--END_SECTION:activity-->
+         
   <h3>🔥 Streak Stats</h3>
-
   <!-- GitHub Readme Streak Stats - https://github.com/lloydcol/github-readme-streak-stats -->
   <p>
     <a href="https://github.com/lloydcol/github-readme-streak-stats">
