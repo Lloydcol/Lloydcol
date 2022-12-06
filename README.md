@@ -88,7 +88,7 @@ I'm also the Co-founder of MTG:Wallonia (Microsoft Tech Group) and I've made it 
   <h3>⚡ Recent GitHub Activity</h3>        
     <!-- https://github.com/jamesgeorge007/github-activity-readme -->
     <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/micbelgique/TheGoodPlace/issues/1) in [micbelgique/TheGoodPlace](https://github.com/micbelgique/TheGoodPlace)
+1. ❗️ Closed issue [#1](https://github.com/AntoineSmet/AntoineSmet/issues/1) in [AntoineSmet/AntoineSmet](https://github.com/AntoineSmet/AntoineSmet)
      <!--END_SECTION:activity-->
          
   <h3>🔥 Streak Stats</h3>
