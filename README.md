@@ -118,8 +118,7 @@ I'm also the Co-founder of MTG:Wallonia (Microsoft Tech Group) and I've made it 
 
 <details open> 
   <summary><h2>🏷️ Holopin Badges</h2></summary>
-
-  <p><a href="https://holopin.io/@lloydcol"><img src="https://holopin.me/lloydcol" alt="@lloydcol&#39;s Holopin board"></a></p>
+  [![@lloydcol's Holopin board](https://holopin.me/lloydcol)](https://holopin.io/@lloydcol)
 </details>
 
 [website]: https://www.tanukitips.com/
