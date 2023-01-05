@@ -74,7 +74,7 @@ I'm also the Co-founder of MTG:Wallonia (Microsoft Tech Group) and I've made it 
 <details open> 
   <summary><h2>📺 Latest YouTube Videos></summary>
   <!-- BEGIN YOUTUBE-CARDS -->
-
+<a href="https://www.youtube.com/watch?v=Kg33CFgqUE4"><img src="https://ytcards.demolab.com/?id=Kg33CFgqUE4&title=Pr%C3%A9sentation+de+la+chaine&lang=en&timestamp=1672930935&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=50" alt="Présentation de la chaine" title="Présentation de la chaine"></a>
 <!-- END YOUTUBE-CARDS -->
 </details>
 
