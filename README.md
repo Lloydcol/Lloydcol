@@ -74,7 +74,8 @@ I'm also the Co-founder of MTG:Wallonia (Microsoft Tech Group) and I've made it 
 <details open> 
   <summary><h2>📺 Latest YouTube Videos></summary>
   <!-- BEGIN YOUTUBE-CARDS -->
-  <!-- END YOUTUBE-CARDS -->
+
+<!-- END YOUTUBE-CARDS -->
 </details>
 
 #
