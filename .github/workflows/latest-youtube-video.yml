@@ -1,7 +1,8 @@
 name: Latest videos youtube post workflow
 on:
-#   schedule:
-#     - cron: "0 0 * * *"
+  # schedule:
+    # Runs every hour, on the hour
+    # - cron: "0 * * * *"
   workflow_dispatch:
 
 jobs:
@@ -11,4 +12,8 @@ jobs:
       - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
           channel_id: UCbgTopUOJCunW_6CZjgxQhwµ
+          comment_tag_name: YOUTUBE-CARDS
+          youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
+          show_duration: true
+          output_type: html
         
