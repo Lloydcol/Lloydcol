@@ -74,6 +74,7 @@ I'm also the Co-founder of MTG:Wallonia (Microsoft Tech Group) and I've made it 
 <details open> 
   <summary><h2>📺 Latest YouTube Videos></summary>
   <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=h8H2dlyMD9s"><img src="https://ytcards.demolab.com/?id=h8H2dlyMD9s&title=Rapide+prise+en+main+des+Cognitives+Services+d%E2%80%99Azure+%5BRediffusion+d%E2%80%99une+session+Twitch+%5D&lang=en&timestamp=1675980285&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=1147" alt="Rapide prise en main des Cognitives Services d’Azure [Rediffusion d’une session Twitch ]" title="Rapide prise en main des Cognitives Services d’Azure [Rediffusion d’une session Twitch ]"></a>
 <a href="https://www.youtube.com/watch?v=Kg33CFgqUE4"><img src="https://ytcards.demolab.com/?id=Kg33CFgqUE4&title=Pr%C3%A9sentation+de+la+chaine&lang=en&timestamp=1672930935&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=50" alt="Présentation de la chaine" title="Présentation de la chaine"></a>
 <!-- END YOUTUBE-CARDS -->
 </details>
