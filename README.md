@@ -65,7 +65,9 @@ I'm also the Co-founder of MTG:Wallonia (Microsoft Tech Group) and I've made it 
 <details open> 
   <summary><h2>📕 Latest Blog posts</h2></summary>
          <!-- BLOG-POST-LIST:START -->
-- [En construction 🛑🚧](https://tanuki-tips.github.io/tanuki-blog/blog/firstcommit)
+- [Cognitive Services pt1 🧠](http://www.tanukitips.com/blog/cognitive-services-pt1)
+- [GitHub Actions - Ton premier workflow step by step!](http://www.tanukitips.com/blog/github-actions-introduction)
+- [En construction 🛑🚧](http://www.tanukitips.com/blog/firstcommit)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
